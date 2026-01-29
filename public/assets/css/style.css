@@ -8,3 +8,10 @@ body {
 h1 {
   color: #4f46e5;
 }
+section {
+  margin-top: 60px;
+}
+
+h2 {
+  color: #111827;
+}
