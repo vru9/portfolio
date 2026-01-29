@@ -79,3 +79,31 @@ h2 {
   color: #9ca3af;
   pointer-events: none;
 }
+
+.footer {
+  margin-top: 80px;
+  padding-top: 20px;
+  border-top: 1px solid #e5e7eb;
+  text-align: center;
+}
+
+.footer p {
+  margin-bottom: 10px;
+  color: #6b7280;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-links a {
+  color: #4f46e5;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
