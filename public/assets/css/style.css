@@ -25,3 +25,21 @@ h2 {
   color: #4b5563;
   margin-top: 8px;
 }
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #4f46e5;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
